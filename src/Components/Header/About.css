@@ -1,0 +1,28 @@
+/* .banner-section
+{
+    background-image: url('../Header/images/image1.jpeg');
+    background-size: cover;
+    background-position: center;
+    height:90vh;
+} */
+.about_section
+{
+    background-color: black;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+}
+p
+{
+   
+    font-weight: bolder;
+    color: white;
+    text-align: center;
+}
+h1
+{
+    text-align: center;
+    color: white;
+
+}
